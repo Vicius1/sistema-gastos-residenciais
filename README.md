@@ -75,6 +75,7 @@ Com isso a aplicação estará disponível em http://localhost:5276/.
     "pessoaId": 1
   }
   ```
+> Observação: O campo **"tipo"** deve conter obrigatoriamente o valor **"receita"** ou **"despesa"**.
 #### Listar Transações
 - **Endpoint:** `GET /transacao`
 - **URL completa:** `http://localhost:5276/transacao`
