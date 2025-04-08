@@ -45,3 +45,4 @@ C:\Users\Pichau\Desktop\aaaaaa\MaxiProd\gastosResidenciais\bin\Debug\net9.0\Micr
 C:\Users\Pichau\Desktop\aaaaaa\MaxiProd\gastosResidenciais\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Pichau\Desktop\aaaaaa\MaxiProd\gastosResidenciais\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Pichau\Desktop\aaaaaa\MaxiProd\gastosResidenciais\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pichau\Desktop\aaaaaa\MaxiProd\gastosResidenciais\obj\Debug\net9.0\gastosResidenciais.sourcelink.json

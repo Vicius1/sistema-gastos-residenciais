@@ -4,7 +4,7 @@ using gastosResidenciais.Models;
 namespace gastosResidenciais.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("/[controller]")]
     public class PessoaController : ControllerBase
     {
         private readonly AppDbContext _context;
