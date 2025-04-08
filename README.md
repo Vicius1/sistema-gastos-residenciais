@@ -59,7 +59,7 @@ Com isso a aplicação estará disponível em http://localhost:5276/.
 #### Deletar uma Pessoa baseado no ID vinculado a ela
   - **Endpoint:** `DELETE /pessoa/:id`
   - **URL completa:** `http://localhost:5276/pessoa/{id}`
-  - **Observação:** Ao deletar uma pessoa, todas as suas transações também serão removidas.
+  > **Observação:** Ao deletar uma pessoa, todas as suas transações também serão removidas.
 
 ### Transações
 
